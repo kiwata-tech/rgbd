@@ -1,0 +1,13 @@
+*.mat
+*.fig
+functions/Inpaint_nans/*
+functions/yael_matlab_linux64_v438/*
+functions/vlfeat-0.9.20/*
+functions/matconvnet/*
+functions/matconvnet_platon/*
+inputs_netvlad/*
+outputs_netvlad/*
+inputs_rgbd/*
+outputs_rgbd/*
+
+
